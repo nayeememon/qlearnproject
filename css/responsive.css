@@ -1,0 +1,73 @@
+@media only screen and (max-width:600px){
+    .featured_course{
+        display: none;
+    }
+    .mobile-features{
+        display: block;
+    }
+    .carousel-inner {
+        padding: 15px;
+    }
+
+    .herotext .col-md-6 {
+         padding: 5px;       
+    }
+    .herotext h2 {
+        font-size: 36px;
+       margin-top: 30px;
+    }
+    .herotext img {
+        display: none;
+    }
+    .banner-btn {
+        margin-bottom: 40px;
+    }
+    .course {
+        padding: 50px 0;
+    }
+    .mobile-features h2{
+            font-weight: 600;
+            font-size: 32px;
+    }
+    .top_cat h2 {
+        font-weight: 700;
+        font-size: 33px;
+        margin-bottom: 20px;
+    }
+    .top_cat {
+        padding: 45px 0;
+    }
+    .category {
+        padding: 15px;
+    }
+    .trainertext {
+     padding: 0px 10px;
+    }
+    input[type=submit]{
+        width: 82% !important;
+        margin-top: 8px !important;
+    }
+    input[type=email]{
+        width: 82% !important;
+        padding: 8px !important;
+    }
+    .subForm {
+        width: 100%;
+    }
+
+    .footer {
+        padding: 25px 0px;
+    }
+
+    .navbar form {
+        margin: 0 !important;
+    }
+
+    .course-content a{
+        width: 45%;
+    }
+    .register .pass{
+        width: 82% !important;
+    }
+
+}
